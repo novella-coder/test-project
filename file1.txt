@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello Bye
 master text
+=======
+Hello Hello from 2nd branch
+olololo
+>>>>>>> second-branch
